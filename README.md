@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Aung Kaung Satt. You can refer to me as Jake.
+I'm Aung Kaung Satt. You can refer to me as Jake. <br/>
 
-I am a web developer, based in Malaysia. I am also a Software Engineering Student at Asia Pacific University of Technology and Innovation.
-I am currently finding for internships, and Junior positions for real-world production work environment experience. I have been in web development for nearly 3 years and I have been creating <br/> personal projects to keep up with tools.
+I am a web developer, based in Malaysia. I am also a Software Engineering Student at Asia Pacific University of Technology and Innovation. <br/>
+I am currently finding for internships, and Junior positions for real-world production work environment experience. I have been in web development for nearly 3 years and I have been creating personal projects to keep up with tools.
 
